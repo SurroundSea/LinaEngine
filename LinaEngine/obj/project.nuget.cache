@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "RkePVOMwtlamTsstkDj2oxUCXBYnfaQPW3Uyo8IPb9lRtrI63DCRyvb0hNCDGRbZ77yLhxSv6CTmWMkbBOx8Fg==",
+  "success": true,
+  "projectFilePath": "E:\\Project\\5_LinaEngine\\LinaEngine\\LinaEngine\\LinaEngine\\LinaEngine.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Alpha\\.nuget\\packages\\fsharp.core\\4.7.0\\fsharp.core.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}
